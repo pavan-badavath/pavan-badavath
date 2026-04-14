@@ -177,7 +177,7 @@ Experienced in leveraging AI-powered developer tools such as GitHub Copilot, Cur
 
 I'm always excited to discuss frontend technologies, share knowledge, and explore new opportunities in web development and AI integration.
 
-- 📧 **Email:** [pavan.nayak.dev@gmail.com](mailto:pavanbadavath01@gmail.com)
+- 📧 **Email:** [pavanbadavath01@gmail.com](mailto:pavanbadavath01@gmail.com)
 - 📱 **Phone:** [+91-9361832433](tel:+919361832433)
 - 💼 **LinkedIn:** [linkedin.com/in/pavannayak](https://linkedin.com/in/pavannayak)
 - 🐙 **GitHub:** [github.com/pavan-badavath](https://github.com/pavan-badavath)
